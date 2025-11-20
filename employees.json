@@ -1,0 +1,28 @@
+{
+    "_comment" : "Vamos a simular una base de datos como si fuese verdad", 
+    "_comment1" : "Es obligatorio usar comillas dobles, el último elemento del jaison no lleva coma para indicar que el bloque terminó",
+
+    "employees" : [
+        {
+            "id": 1,
+            "username" : "Dayana", 
+            "job" : "Ux / UI"
+        }, 
+         {
+            "id": 2,
+            "username" : "Alejo", 
+            "job" : "Web programer"
+        }, 
+         {
+            "id": 3,
+            "username" : "Jhonier", 
+            "job" : "Marketing"
+        }, 
+         {
+            "id": 4,
+            "username" : "Sergio", 
+            "job" : "Servers"
+        }
+        
+    ]
+}
